@@ -1,4 +1,5 @@
 
+
 /**
  * A representation of a binary tree with the current node as the root.
  * Invariant: There are no duplicate values in the tree.
